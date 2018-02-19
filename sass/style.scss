@@ -1,19 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
+$font: 'Open Sans', sans-serif;
+$background: #edf4f3;
+$h1: #328276;
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
-    background-color: #edf4f3; 
+    font-family: $font;
+    background-color: $background; 
 }
 
 h1 {
     text-align: center;
     text-transform: uppercase;
-    color: #328276;
+    color: $h1;
     font-size: 45px;
     margin-top: 50px;
 }
