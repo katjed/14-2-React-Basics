@@ -1,3 +1,3 @@
-task-14-2
+14-2-React-Basics
 
-https://katjed.github.io/task-14-2/
+https://katjed.github.io/14-2-React-Basics/
